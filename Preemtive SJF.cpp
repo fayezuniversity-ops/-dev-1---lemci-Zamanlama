@@ -1,7 +1,3 @@
-Here is the C++ code for the Preemptive SJF (Shortest Job First) Scheduling algorithm (also known as Shortest Remaining Time First or SRTF), which calculates the requested performance metrics. The code follows the instruction to use English for variables and output, and to exclude comments.
-
-C++
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
